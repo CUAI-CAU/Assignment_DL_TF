@@ -3,9 +3,14 @@
 Repo for submitting Deep Learning with Tensorflow assignment.
 
 ## Deep Learning Zero To ALL : TensorFlow
-- Github: https://github.com/deeplearningzerotoall/TensorFlow
-- YouTube: http://bit.ly/2HHrybT
-- Slide: http://bit.ly/2LQMKvk
+- Official Github: https://github.com/deeplearningzerotoall/TensorFlow
+- Official YouTube: http://bit.ly/2HHrybT
+- Official Slide: http://bit.ly/2LQMKvk
+
+## Assignment
+|과제|설명|기한|
+|------|---|:---:|
+|**Part1. Basic Machine Learning** | [YouTube](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C)에서 **Lec07**까지 수강한 뒤 [GitHub](https://github.com/CUAI-CAU/DeepLearning_TensorFlow)의 [자료](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/tree/master/tf_2.x) [[Lab02-1](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-02-1-Simple-Linear-Regression-eager.ipynb), [Lab03-1](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-03-1-Linear-Regression-and-Minimizing-Cost-eager.ipynb), [Lab04-1](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-04-1-Multi-variable-Linear-Regression--Regression-eager.ipynb), [Lab05-2](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-05-2-logistic_regression_diabetes-eager.ipynb), [Lab06-1](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-06-1-softmax_classifier-eager.ipynb), [Lab07-6](https://github.com/CUAI-CAU/DeepLearning_TensorFlow/blob/master/tf_2.x/lab-07-6-IMDB-introduction.ipynb)]을 실습한 후 현재 레포지토리의 [Lab02](/Lab02)~[Lab07](/Lab07) 각각의 디렉터리에 파일명 "**Lab00_이름**"으로 업로드하세요! |21.10.12|
 
 ## Index
 ### PART 1: Basic Machine Learning
