@@ -1,6 +1,6 @@
 ## Part 4: Recurrent Neural Network
 
-## Assignment
+## Practice
 Lec 12: NN의 꽃 RNN 이야기  
 Lab 12-0: rnn basics  
 Lab 12-1: many to one (word sentiment classification)  

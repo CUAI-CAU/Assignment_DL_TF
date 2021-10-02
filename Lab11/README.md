@@ -1,6 +1,6 @@
 ## Part 3: Convolutional Neural Network
 
-## Assignment
+## Practice
 Lec 11-1: ConvNet의 Conv 레이어 만들기  
 Lec 11-2: ConvNet Max pooling 과 Full Network  
 Lec 11-3: ConvNet의 활용예  
